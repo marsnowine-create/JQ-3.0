@@ -1,0 +1,7 @@
+{
+  "name": "云境智能导览",
+  "description": "一款极具设计感的景区智能体小程序，集成多角色AI导览、排队查询、AI旅拍及周边推荐。",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
